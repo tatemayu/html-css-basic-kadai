@@ -31,14 +31,12 @@ body{
     .blue {
       color:skyblue;
     }
-   #basic, text-bold {
+   #basic .text-bold {
     font-weight: bold;
    }
-   
-   h2, p {
+    h2 , p {
       text-align: center;
       font-size: 20px;
-    }
-
-      }
+        }
+  }
 
